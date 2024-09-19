@@ -1,0 +1,17 @@
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\bin\Debug\net8.0\AngPro.Infrastructure.deps.json
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\bin\Debug\net8.0\AngPro.Infrastructure.dll
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\bin\Debug\net8.0\AngPro.Infrastructure.pdb
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\bin\Debug\net8.0\AngPro.Application.dll
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\bin\Debug\net8.0\AngPro.Domain.dll
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\bin\Debug\net8.0\AngPro.Application.pdb
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\bin\Debug\net8.0\AngPro.Domain.pdb
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\obj\Debug\net8.0\AngPro.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\obj\Debug\net8.0\AngPro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\obj\Debug\net8.0\AngPro.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\obj\Debug\net8.0\AngPro.Infrastructure.AssemblyInfo.cs
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\obj\Debug\net8.0\AngPro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\obj\Debug\net8.0\AngPro.I.5B88BB15.Up2Date
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\obj\Debug\net8.0\AngPro.Infrastructure.dll
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\obj\Debug\net8.0\refint\AngPro.Infrastructure.dll
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\obj\Debug\net8.0\AngPro.Infrastructure.pdb
+C:\Users\erkoc\Desktop\Proje\AngPro\Infrastructure\AngPro.Infrastructure\obj\Debug\net8.0\ref\AngPro.Infrastructure.dll

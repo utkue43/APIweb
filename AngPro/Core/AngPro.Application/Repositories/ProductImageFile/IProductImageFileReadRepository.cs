@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using AngPro.Domain.Entities;
+using System.Threading.Tasks;
+
+namespace AngPro.Application.Repositories.ProductImageFile
+{
+    public interface IProductImageFileReadRepository : IReadRepository<AngPro.Domain.Entities.ProductImageFile>
+    {
+    }
+}

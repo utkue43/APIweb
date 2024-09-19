@@ -1,0 +1,29 @@
+<div>
+    <div class="col-md-3"></div>
+    <div class="col-md-6">
+      <!-- 27:40 -->
+        <form [formGroup]="frm" (ngSubmit)= "onSubmit(this.frm.value)">
+            <div class="mb-3">
+                <label for="userNanem">Username *</label>
+                <input type="text" formControlName="userName" class="form-control" id="userName" placeholder="Username" [ngClass]="{'is-invalid': submitted && component.userName.errors}">
+                <small class="form-text text-muted invalid-feedback" *ngIf="submitted && component.userName.errors?.required">Boş bırakmayın</small>
+                <small class="form-text text-muted invalid-feedback" *ngIf="submitted && component.userName.errors?.maxlength|| component.userName.errors?.minlength">5-30 karakter arası</small>
+            </div>
+            <div class="mb-3">
+                <label for="eMail">Email Address *</label>
+                <input type="email" formControlName="eMail" class="form-control" id="eMail" placeholder="Email">
+            </div>
+            <div class="mb-3">
+              <label for="passWord" class="form-label">Password *</label>
+              <input type="password" formControlName="passWord" class="form-control"  id="passWord" [ngClass]="{'is-invalid': submitted && component.passWord.errors}">
+            </div>
+            <div class="mb-3">
+                <label for="passWord2" class="form-label">Password Again *</label>
+                <input type="password" formControlName="passWord2" class="form-control" id="passWord2" [ngClass]="{'is-invalid': submitted && component.passWord2.errors}">
+                <small *ngIf="submitted && frm.hasError('notSame')">Şifre yanlış</small>
+              </div>
+            <button type="submit" class="btn btn-primary">Register</button>
+          </form>
+    </div>
+    <div class="col-md-3"></div>
+</div>

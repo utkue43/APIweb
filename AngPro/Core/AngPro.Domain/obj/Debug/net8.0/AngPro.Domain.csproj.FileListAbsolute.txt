@@ -1,0 +1,12 @@
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Domain\bin\Debug\net8.0\AngPro.Domain.deps.json
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Domain\bin\Debug\net8.0\AngPro.Domain.dll
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Domain\bin\Debug\net8.0\AngPro.Domain.pdb
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Domain\obj\Debug\net8.0\AngPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Domain\obj\Debug\net8.0\AngPro.Domain.AssemblyInfoInputs.cache
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Domain\obj\Debug\net8.0\AngPro.Domain.AssemblyInfo.cs
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Domain\obj\Debug\net8.0\AngPro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Domain\obj\Debug\net8.0\AngPro.Domain.dll
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Domain\obj\Debug\net8.0\refint\AngPro.Domain.dll
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Domain\obj\Debug\net8.0\AngPro.Domain.pdb
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Domain\obj\Debug\net8.0\ref\AngPro.Domain.dll
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Domain\obj\Debug\net8.0\AngPro.Domain.csproj.AssemblyReference.cache

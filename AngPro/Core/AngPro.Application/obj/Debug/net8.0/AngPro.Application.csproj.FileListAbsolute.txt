@@ -1,0 +1,15 @@
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Application\bin\Debug\net8.0\AngPro.Application.deps.json
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Application\bin\Debug\net8.0\AngPro.Application.dll
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Application\bin\Debug\net8.0\AngPro.Application.pdb
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Application\bin\Debug\net8.0\AngPro.Domain.dll
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Application\bin\Debug\net8.0\AngPro.Domain.pdb
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Application\obj\Debug\net8.0\AngPro.Application.csproj.AssemblyReference.cache
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Application\obj\Debug\net8.0\AngPro.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Application\obj\Debug\net8.0\AngPro.Application.AssemblyInfoInputs.cache
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Application\obj\Debug\net8.0\AngPro.Application.AssemblyInfo.cs
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Application\obj\Debug\net8.0\AngPro.Application.csproj.CoreCompileInputs.cache
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Application\obj\Debug\net8.0\AngPro.A.073A1F6C.Up2Date
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Application\obj\Debug\net8.0\AngPro.Application.dll
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Application\obj\Debug\net8.0\refint\AngPro.Application.dll
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Application\obj\Debug\net8.0\AngPro.Application.pdb
+C:\Users\erkoc\Desktop\Proje\AngPro\Core\AngPro.Application\obj\Debug\net8.0\ref\AngPro.Application.dll
